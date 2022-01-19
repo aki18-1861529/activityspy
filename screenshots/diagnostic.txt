@@ -1,0 +1,214 @@
+--------- beginning of main
+--------- beginning of system
+01-19 06:03:31.682 10477 10477 I MainActivity: onCreate(savedInstanceState) event fired
+01-19 06:03:31.682 10477 10477 I MainActivity: Additional data with onCreate: null
+01-19 06:03:31.692 10477 10477 I MainActivity: onStart() event fired
+01-19 06:03:31.711 10477 10477 I MainActivity: onResume() event fired
+01-19 06:03:45.899 10477 10477 I MainActivity: onPause() event fired
+01-19 06:03:45.936 10477 10477 I MainActivity: onStop() event fired
+01-19 06:03:53.253 10477 10477 I MainActivity: onRestart() event fired
+01-19 06:03:53.255 10477 10477 I MainActivity: onStart() event fired
+01-19 06:03:53.256 10477 10477 I MainActivity: onResume() event fired
+01-19 06:03:56.641 10477 10477 I MainActivity: onPause() event fired
+01-19 06:03:56.708 10477 10477 I MainActivity: onStop() event fired
+01-19 06:04:11.745 10477 10477 I MainActivity: onRestart() event fired
+01-19 06:04:11.746 10477 10477 I MainActivity: onStart() event fired
+01-19 06:04:11.748 10477 10477 I MainActivity: onResume() event fired
+01-19 06:04:13.840 10477 10477 I MainActivity: onPause() event fired
+01-19 06:04:13.874 10477 10477 I MainActivity: onStop() event fired
+01-19 06:04:18.194 10477 10477 I MainActivity: onRestart() event fired
+01-19 06:04:18.211 10477 10477 I MainActivity: onStart() event fired
+01-19 06:04:18.250 10477 10477 I MainActivity: onResume() event fired
+01-19 06:04:20.283 10477 10477 I MainActivity: onPause() event fired
+01-19 06:04:20.529 10477 10477 I MainActivity: onStop() event fired
+01-19 06:04:20.532 10477 10477 I MainActivity: onDestroy() event fired
+01-19 06:04:20.532 10477 10477 E MainActivity: We're going down, Captain!
+01-19 06:04:20.664 10477 10477 I MainActivity: onCreate(savedInstanceState) event fired
+01-19 06:04:20.664 10477 10477 I MainActivity: Additional data with onCreate: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@cfe6bc7, 2131230771=androidx.appcompat.widget.Toolbar$SavedState@14b5f4, 2131230773=android.view.AbsSavedState$1@cfe6bc7, 2131230779=android.view.AbsSavedState$1@cfe6bc7, 2131230860=android.view.AbsSavedState$1@cfe6bc7}}], androidx.lifecycle.BundlableSavedStateRegistry.key=Bundle[{}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@6fa011d}]
+01-19 06:04:20.667 10477 10477 I MainActivity: onStart() event fired
+01-19 06:04:20.672 10477 10477 I MainActivity: onResume() event fired
+01-19 06:04:26.965 10477 10477 I MainActivity: onPause() event fired
+01-19 06:04:26.970 10477 10477 I MainActivity: onStop() event fired
+01-19 06:04:26.973 10477 10477 I MainActivity: onDestroy() event fired
+01-19 06:04:26.973 10477 10477 E MainActivity: We're going down, Captain!
+01-19 06:04:27.109 10477 10477 I MainActivity: onCreate(savedInstanceState) event fired
+01-19 06:04:27.109 10477 10477 I MainActivity: Additional data with onCreate: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@cfe6bc7, 2131230771=androidx.appcompat.widget.Toolbar$SavedState@209a933, 2131230773=android.view.AbsSavedState$1@cfe6bc7, 2131230779=android.view.AbsSavedState$1@cfe6bc7, 2131230860=android.view.AbsSavedState$1@cfe6bc7}}], androidx.lifecycle.BundlableSavedStateRegistry.key=Bundle[{}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@1cc4f0}]
+01-19 06:04:27.113 10477 10477 I MainActivity: onStart() event fired
+01-19 06:04:27.120 10477 10477 I MainActivity: onResume() event fired
+01-19 06:04:34.001 10477 10477 I MainActivity: onPause() event fired
+01-19 06:04:34.029 10477 10477 I MainActivity: onStop() event fired
+01-19 06:04:47.402 10477 10477 I MainActivity: onDestroy() event fired
+01-19 06:04:47.403 10477 10477 E MainActivity: We're going down, Captain!
+01-19 06:12:08.016 10822 10822 I MainActivity: onCreate(savedInstanceState) event fired
+01-19 06:12:08.016 10822 10822 I MainActivity: Additional data with onCreate: null
+01-19 06:12:08.029 10822 10822 I MainActivity: onStart() event fired
+01-19 06:12:08.049 10822 10822 I MainActivity: onResume() event fired
+01-19 06:12:23.222 10822 10822 I MainActivity: onPause() event fired
+01-19 06:12:25.687 10822 10822 I MainActivity: onStop() event fired
+01-19 06:12:33.070 10822 10822 I MainActivity: onDestroy() event fired
+01-19 06:12:33.070 10822 10822 E MainActivity: We're going down, Captain!
+01-19 11:11:09.256 10996 10996 I MainActivity: onCreate(savedInstanceState) event fired
+01-19 11:11:09.256 10996 10996 I MainActivity: Additional data with onCreate: null
+01-19 11:11:09.257 10996 10996 I MainActivity: onStart() event fired
+01-19 11:11:09.259 10996 10996 I MainActivity: onResume() event fired
+01-19 11:11:11.693 10996 10996 I MainActivity: onPause() event fired
+01-19 11:11:11.699 10996 10996 I MainActivity: onStop() event fired
+01-19 11:11:44.020 11182 11182 I MainActivity: onCreate event fired
+01-19 11:11:44.020 11182 11182 I MainActivity: Additional data with onCreate: null
+01-19 11:11:44.021 11182 11182 I MainActivity: onStart event fired
+01-19 11:11:44.023 11182 11182 I MainActivity: onResume event fired
+01-19 11:12:14.644 11182 11182 I MainActivity: onPause event fired
+01-19 11:12:14.673 11182 11182 I MainActivity: onStop event fired
+01-19 11:13:15.998 11182 11182 I MainActivity: onRestart event fired
+01-19 11:13:16.012 11182 11182 I MainActivity: onStart event fired
+01-19 11:13:16.013 11182 11182 I MainActivity: onResume event fired
+01-19 11:13:41.015 11182 11182 I MainActivity: onPause event fired
+01-19 11:13:45.750 11182 11182 I MainActivity: onStop event fired
+01-19 11:13:53.690 11182 11182 I MainActivity: onRestart event fired
+01-19 11:13:53.706 11182 11182 I MainActivity: onStart event fired
+01-19 11:13:53.709 11182 11182 I MainActivity: onResume event fired
+01-19 11:13:56.184 11182 11182 I MainActivity: onPause event fired
+01-19 11:13:56.220 11182 11182 I MainActivity: onStop event fired
+01-19 11:14:33.161 11182 11182 I MainActivity: onRestart event fired
+01-19 11:14:33.163 11182 11182 I MainActivity: onStart event fired
+01-19 11:14:33.165 11182 11182 I MainActivity: onResume event fired
+01-19 11:14:34.696 11182 11182 I MainActivity: onPause event fired
+01-19 11:14:38.250 11182 11182 I MainActivity: onStop event fired
+01-19 11:14:47.938 11182 11182 I MainActivity: onRestart event fired
+01-19 11:14:47.941 11182 11182 I MainActivity: onStart event fired
+01-19 11:14:47.946 11182 11182 I MainActivity: onResume event fired
+01-19 11:14:51.011 11182 11182 I MainActivity: onPause event fired
+01-19 11:14:56.833 11182 11182 I MainActivity: onResume event fired
+01-19 11:15:02.216 11182 11182 I MainActivity: onPause event fired
+01-19 11:15:02.273 11182 11182 I MainActivity: onStop event fired
+01-19 11:15:02.276 11182 11182 I MainActivity: onDestroy event fired
+01-19 11:15:02.276 11182 11182 E MainActivity: We're going down, Captain!
+01-19 11:15:02.515 11182 11182 I MainActivity: onCreate event fired
+01-19 11:15:02.515 11182 11182 I MainActivity: Additional data with onCreate: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@d4b8424, 2131230771=androidx.appcompat.widget.Toolbar$SavedState@3426b8d, 2131230773=android.view.AbsSavedState$1@d4b8424, 2131230779=android.view.AbsSavedState$1@d4b8424, 2131230860=android.view.AbsSavedState$1@d4b8424}}], androidx.lifecycle.BundlableSavedStateRegistry.key=Bundle[{}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@c1af142}]
+01-19 11:15:02.525 11182 11182 I MainActivity: onStart event fired
+01-19 11:15:02.539 11182 11182 I MainActivity: onResume event fired
+01-19 11:15:13.430 11182 11182 I MainActivity: onPause event fired
+01-19 11:15:13.436 11182 11182 I MainActivity: onStop event fired
+01-19 11:15:13.438 11182 11182 I MainActivity: onDestroy event fired
+01-19 11:15:13.438 11182 11182 E MainActivity: We're going down, Captain!
+01-19 11:15:13.592 11182 11182 I MainActivity: onCreate event fired
+01-19 11:15:13.592 11182 11182 I MainActivity: Additional data with onCreate: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@d4b8424, 2131230771=androidx.appcompat.widget.Toolbar$SavedState@507107f, 2131230773=android.view.AbsSavedState$1@d4b8424, 2131230779=android.view.AbsSavedState$1@d4b8424, 2131230860=android.view.AbsSavedState$1@d4b8424}}], androidx.lifecycle.BundlableSavedStateRegistry.key=Bundle[{}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@c42e84c}]
+01-19 11:15:13.597 11182 11182 I MainActivity: onStart event fired
+01-19 11:15:13.605 11182 11182 I MainActivity: onResume event fired
+01-19 11:17:49.619 11182 11182 I MainActivity: onPause event fired
+01-19 11:17:49.625 11182 11182 I MainActivity: onStop event fired
+01-19 11:17:49.630 11182 11182 I MainActivity: onDestroy event fired
+01-19 11:17:49.630 11182 11182 E MainActivity: We're going down, Captain!
+01-19 11:17:49.752 11182 11182 I MainActivity: onCreate event fired
+01-19 11:17:49.752 11182 11182 I MainActivity: Additional data with onCreate: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@d4b8424, 2131230771=androidx.appcompat.widget.Toolbar$SavedState@9b77361, 2131230773=android.view.AbsSavedState$1@d4b8424, 2131230779=android.view.AbsSavedState$1@d4b8424, 2131230860=android.view.AbsSavedState$1@d4b8424}}], androidx.lifecycle.BundlableSavedStateRegistry.key=Bundle[{}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@649de86}]
+01-19 11:17:49.760 11182 11182 I MainActivity: onStart event fired
+01-19 11:17:49.766 11182 11182 I MainActivity: onResume event fired
+01-19 11:17:56.244 11182 11182 I MainActivity: onPause event fired
+01-19 11:17:56.250 11182 11182 I MainActivity: onStop event fired
+01-19 11:17:56.252 11182 11182 I MainActivity: onDestroy event fired
+01-19 11:17:56.252 11182 11182 E MainActivity: We're going down, Captain!
+01-19 11:17:56.384 11182 11182 I MainActivity: onCreate event fired
+01-19 11:17:56.384 11182 11182 I MainActivity: Additional data with onCreate: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@d4b8424, 2131230771=androidx.appcompat.widget.Toolbar$SavedState@381bc58, 2131230773=android.view.AbsSavedState$1@d4b8424, 2131230779=android.view.AbsSavedState$1@d4b8424, 2131230860=android.view.AbsSavedState$1@d4b8424}}], androidx.lifecycle.BundlableSavedStateRegistry.key=Bundle[{}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@9b031b1}]
+01-19 11:17:56.388 11182 11182 I MainActivity: onStart event fired
+01-19 11:17:56.396 11182 11182 I MainActivity: onResume event fired
+01-19 11:18:09.468 11182 11182 I MainActivity: onPause event fired
+01-19 11:18:09.498 11182 11182 I MainActivity: onStop event fired
+01-19 11:18:35.875 11544 11544 I MainActivity: onCreate event fired
+01-19 11:18:35.875 11544 11544 I MainActivity: Additional data with onCreate: null
+01-19 11:18:35.878 11544 11544 I MainActivity: onStart event fired
+01-19 11:18:35.884 11544 11544 I MainActivity: onResume event fired
+01-19 11:18:42.004 11544 11544 I MainActivity: onPause event fired
+01-19 11:18:50.011 11544 11544 I MainActivity: onResume event fired
+01-19 11:18:52.575 11544 11544 I MainActivity: onPause event fired
+01-19 11:18:52.604 11544 11544 I MainActivity: onStop event fired
+01-19 11:18:58.658 11544 11544 I MainActivity: onRestart event fired
+01-19 11:18:58.660 11544 11544 I MainActivity: onStart event fired
+01-19 11:18:58.661 11544 11544 I MainActivity: onResume event fired
+01-19 11:19:01.616 11544 11544 I MainActivity: onPause event fired
+01-19 11:19:01.650 11544 11544 I MainActivity: onStop event fired
+01-19 11:19:06.405 11544 11544 I MainActivity: onRestart event fired
+01-19 11:19:06.408 11544 11544 I MainActivity: onStart event fired
+01-19 11:19:06.409 11544 11544 I MainActivity: onResume event fired
+01-19 11:19:09.076 11544 11544 I MainActivity: onPause event fired
+01-19 11:19:09.091 11544 11544 I MainActivity: onStop event fired
+01-19 11:19:09.094 11544 11544 I MainActivity: onDestroy event fired
+01-19 11:19:09.094 11544 11544 E MainActivity: We're going down, Captain!
+01-19 11:19:09.249 11544 11544 I MainActivity: onCreate event fired
+01-19 11:19:09.249 11544 11544 I MainActivity: Additional data with onCreate: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@ce80d48, 2131230771=androidx.appcompat.widget.Toolbar$SavedState@89c7e1, 2131230773=android.view.AbsSavedState$1@ce80d48, 2131230779=android.view.AbsSavedState$1@ce80d48, 2131230860=android.view.AbsSavedState$1@ce80d48}}], androidx.lifecycle.BundlableSavedStateRegistry.key=Bundle[{}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@e96d906}]
+01-19 11:19:09.253 11544 11544 I MainActivity: onStart event fired
+01-19 11:19:09.261 11544 11544 I MainActivity: onResume event fired
+01-19 11:19:13.344 11544 11544 I MainActivity: onPause event fired
+01-19 11:19:13.351 11544 11544 I MainActivity: onStop event fired
+01-19 11:19:13.354 11544 11544 I MainActivity: onDestroy event fired
+01-19 11:19:13.354 11544 11544 E MainActivity: We're going down, Captain!
+01-19 11:19:13.492 11544 11544 I MainActivity: onCreate event fired
+01-19 11:19:13.492 11544 11544 I MainActivity: Additional data with onCreate: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@ce80d48, 2131230771=androidx.appcompat.widget.Toolbar$SavedState@429fa97, 2131230773=android.view.AbsSavedState$1@ce80d48, 2131230779=android.view.AbsSavedState$1@ce80d48, 2131230860=android.view.AbsSavedState$1@ce80d48}}], androidx.lifecycle.BundlableSavedStateRegistry.key=Bundle[{}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@803e484}]
+01-19 11:19:13.495 11544 11544 I MainActivity: onStart event fired
+01-19 11:19:13.501 11544 11544 I MainActivity: onResume event fired
+01-19 11:19:19.129 11544 11544 I MainActivity: onPause event fired
+01-19 11:19:26.419 11544 11544 I MainActivity: onResume event fired
+01-19 11:19:30.842 11544 11544 I MainActivity: onPause event fired
+01-19 11:19:31.574 11544 11544 I MainActivity: onStop event fired
+01-19 11:19:31.581 11544 11544 I MainActivity: onDestroy event fired
+01-19 11:19:31.581 11544 11544 E MainActivity: We're going down, Captain!
+01-19 11:19:31.831 11544 11544 I MainActivity: onCreate event fired
+01-19 11:19:31.831 11544 11544 I MainActivity: Additional data with onCreate: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@ce80d48, 2131230771=androidx.appcompat.widget.Toolbar$SavedState@329ad75, 2131230773=android.view.AbsSavedState$1@ce80d48, 2131230779=android.view.AbsSavedState$1@ce80d48, 2131230860=android.view.AbsSavedState$1@ce80d48}, android:Panels={0=com.android.internal.policy.PhoneWindow$PanelFeatureState$SavedState@916b10a}}], androidx.lifecycle.BundlableSavedStateRegistry.key=Bundle[{}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@569d7b}]
+01-19 11:19:31.835 11544 11544 I MainActivity: onStart event fired
+01-19 11:19:31.841 11544 11544 I MainActivity: onResume event fired
+01-19 11:19:31.847 11544 11544 I MainActivity: onPause event fired
+01-19 11:19:40.156 11544 11544 I MainActivity: onStop event fired
+01-19 11:19:40.158 11544 11544 I MainActivity: onDestroy event fired
+01-19 11:19:40.159 11544 11544 E MainActivity: We're going down, Captain!
+01-19 11:19:40.374 11544 11544 I MainActivity: onCreate event fired
+01-19 11:19:40.374 11544 11544 I MainActivity: Additional data with onCreate: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@ce80d48, 2131230771=androidx.appcompat.widget.Toolbar$SavedState@a3d6b4b, 2131230773=android.view.AbsSavedState$1@ce80d48, 2131230779=android.view.AbsSavedState$1@ce80d48, 2131230860=android.view.AbsSavedState$1@ce80d48}, android:Panels={0=com.android.internal.policy.PhoneWindow$PanelFeatureState$SavedState@9d9b928}}], androidx.lifecycle.BundlableSavedStateRegistry.key=Bundle[{}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@50e3641}]
+01-19 11:19:40.403 11544 11544 I MainActivity: onStart event fired
+01-19 11:19:40.420 11544 11544 I MainActivity: onResume event fired
+01-19 11:19:40.434 11544 11544 I MainActivity: onPause event fired
+01-19 11:19:46.824 11544 11544 I MainActivity: onStop event fired
+01-19 11:19:46.826 11544 11544 I MainActivity: onDestroy event fired
+01-19 11:19:46.826 11544 11544 E MainActivity: We're going down, Captain!
+01-19 11:19:46.945 11544 11544 I MainActivity: onCreate event fired
+01-19 11:19:46.945 11544 11544 I MainActivity: Additional data with onCreate: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@ce80d48, 2131230771=androidx.appcompat.widget.Toolbar$SavedState@57c731e, 2131230773=android.view.AbsSavedState$1@ce80d48, 2131230779=android.view.AbsSavedState$1@ce80d48, 2131230860=android.view.AbsSavedState$1@ce80d48}, android:Panels={0=com.android.internal.policy.PhoneWindow$PanelFeatureState$SavedState@84457ff}}], androidx.lifecycle.BundlableSavedStateRegistry.key=Bundle[{}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@62359cc}]
+01-19 11:19:46.948 11544 11544 I MainActivity: onStart event fired
+01-19 11:19:46.955 11544 11544 I MainActivity: onResume event fired
+01-19 11:19:46.960 11544 11544 I MainActivity: onPause event fired
+01-19 11:19:47.078 11544 11544 I MainActivity: onResume event fired
+01-19 11:19:52.504 11544 11544 I MainActivity: onPause event fired
+01-19 11:19:52.533 11544 11544 I MainActivity: onStop event fired
+01-19 11:20:11.820 11829 11829 I MainActivity: onCreate event fired
+01-19 11:20:11.820 11829 11829 I MainActivity: Additional data with onCreate: null
+01-19 11:20:11.826 11829 11829 I MainActivity: onStart event fired
+01-19 11:20:11.836 11829 11829 I MainActivity: onResume event fired
+01-19 11:20:15.391 11829 11829 I MainActivity: onPause event fired
+01-19 11:20:15.423 11829 11829 I MainActivity: onStop event fired
+01-19 11:20:38.207 12050 12050 I MainActivity: onCreate event fired
+01-19 11:20:38.207 12050 12050 I MainActivity: Additional data with onCreate: null
+01-19 11:20:38.211 12050 12050 I MainActivity: onStart event fired
+01-19 11:20:38.219 12050 12050 I MainActivity: onResume event fired
+01-19 11:23:22.731 12050 12050 I MainActivity: onPause event fired
+01-19 11:23:31.266 12050 12050 I MainActivity: onResume event fired
+01-19 11:23:34.141 12050 12050 I MainActivity: onPause event fired
+01-19 11:23:34.174 12050 12050 I MainActivity: onStop event fired
+01-19 11:23:51.729 12050 12050 I MainActivity: onRestart event fired
+01-19 11:23:51.731 12050 12050 I MainActivity: onStart event fired
+01-19 11:23:51.732 12050 12050 I MainActivity: onResume event fired
+01-19 11:23:55.631 12050 12050 I MainActivity: onPause event fired
+01-19 11:23:55.647 12050 12050 I MainActivity: onStop event fired
+01-19 11:23:55.650 12050 12050 I MainActivity: onDestroy event fired
+01-19 11:23:55.650 12050 12050 E MainActivity: We're going down, Captain!
+01-19 11:23:55.808 12050 12050 I MainActivity: onCreate event fired
+01-19 11:23:55.808 12050 12050 I MainActivity: Additional data with onCreate: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@debd173, 2131230771=androidx.appcompat.widget.Toolbar$SavedState@92b6830, 2131230773=android.view.AbsSavedState$1@debd173, 2131230779=android.view.AbsSavedState$1@debd173, 2131230860=android.view.AbsSavedState$1@debd173}}], androidx.lifecycle.BundlableSavedStateRegistry.key=Bundle[{}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@65a2ca9}]
+01-19 11:23:55.811 12050 12050 I MainActivity: onStart event fired
+01-19 11:23:55.815 12050 12050 I MainActivity: onResume event fired
+01-19 11:23:59.167 12050 12050 I MainActivity: onPause event fired
+01-19 11:23:59.175 12050 12050 I MainActivity: onStop event fired
+01-19 11:23:59.178 12050 12050 I MainActivity: onDestroy event fired
+01-19 11:23:59.178 12050 12050 E MainActivity: We're going down, Captain!
+01-19 11:23:59.356 12050 12050 I MainActivity: onCreate event fired
+01-19 11:23:59.356 12050 12050 I MainActivity: Additional data with onCreate: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@debd173, 2131230771=androidx.appcompat.widget.Toolbar$SavedState@89710f9, 2131230773=android.view.AbsSavedState$1@debd173, 2131230779=android.view.AbsSavedState$1@debd173, 2131230860=android.view.AbsSavedState$1@debd173}}], androidx.lifecycle.BundlableSavedStateRegistry.key=Bundle[{}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@914483e}]
+01-19 11:23:59.361 12050 12050 I MainActivity: onStart event fired
+01-19 11:23:59.370 12050 12050 I MainActivity: onResume event fired
+01-19 11:24:10.394 12050 12050 I MainActivity: onPause event fired
+01-19 11:24:10.476 12050 12050 I MainActivity: onStop event fired
+01-19 11:24:14.035 12050 12050 I MainActivity: onDestroy event fired
+01-19 11:24:14.036 12050 12050 E MainActivity: We're going down, Captain!
